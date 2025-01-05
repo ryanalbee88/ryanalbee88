@@ -1,4 +1,4 @@
-<h1> Hello, My Name Is Ryan, an <br/>
+<h1> Hello, My Name Is Ryan, a Dedicated<br/>
  <an href="(https://www.linkedin.com/in/ryan-albee-07b186324/)"> IT Professional</a></h1>
 
 <h2> <span> &nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
