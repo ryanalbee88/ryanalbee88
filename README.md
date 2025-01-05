@@ -1,7 +1,7 @@
 <h1> Hello, My Name Is Ryan, an <br/>
  <an href="(https://www.linkedin.com/in/ryan-albee-07b186324/)"> IT Professional</a></h1>
 
-<h2> <span> 👨🏽‍💻&nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
+<h2> <span> &nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
 
 - <b>Creating Virtual Machines(VM) and Virtual Networks</b>
   - [VM And Virtual Network Creation](https://github.com/ryanalbee88/Virtual-Machine-VM-and-Virtual-Network-Creation)
