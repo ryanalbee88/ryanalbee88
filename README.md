@@ -7,11 +7,11 @@
   - [VM And Virtual Network Creation](https://github.com/ryanalbee88/Virtual-Machine-VM-and-Virtual-Network-Creation)
  
 - <b>Ticketing Systems (osTicket)</b>
-  - [osTicket-Creation]()
+  - [osTicket-Creation]
   - Coming Soon!!!
 
 - <b>Active Directory Creation/Configuration</b>
-  - [Active Directory Deployment and Configuration]()
+  - [Active Directory Deployment and Configuration]
   - Coming Soon!!!
 <!--
 **ryanalbee88/ryanalbee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
