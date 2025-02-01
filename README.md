@@ -4,7 +4,7 @@
 <h2> <span> &nbsp;&nbsp;💻 </span>&nbsp;Information Technology Projects: </h2>
 
 - <b>Creating Virtual Machines(VM) and Virtual Networks</b>
-  - [VM And Virtual Network Creation](https://github.com/ryanalbee88/Virtual-Machine-VM-and-Virtual-Network-Creation)
+  - [VM / Virtual Network Creation And Network Observation]([https://github.com/ryanalbee88/Virtual-Machine-VM-and-Virtual-Network-Creation](https://github.com/ryanalbee88/Virtual-Machine-VM-and-Virtual-Network-Creation-and-Network-Observation))
  
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket-Creation]
